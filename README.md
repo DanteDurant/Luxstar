@@ -1,3 +1,3 @@
 # Luxstar
 
-a Website created for a realtor company
+a Website created for a realtor company.
